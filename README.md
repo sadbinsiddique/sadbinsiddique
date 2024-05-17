@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
+![MasterHead](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox)
 <h1 align="center">Hi 👋, I'm Sad Bin Siddique</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/R7LX8MmB5HQAAAAi/game-changer-game-changers.gif">
