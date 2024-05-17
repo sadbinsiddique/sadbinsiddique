@@ -1,4 +1,4 @@
-![MasterHead](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox)
+![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)
 <h1 align="center">Hi 👋, I'm Sad Bin Siddique</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/R7LX8MmB5HQAAAAi/game-changer-game-changers.gif">
