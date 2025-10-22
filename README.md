@@ -1,12 +1,12 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQGI9Obf7f-lMQ/article-cover_image-shrink_720_1280/0/1648456393948?e=2147483647&v=beta&t=0VBD9nswTEIyn4dXsie847QkunT8T3pnAZBVaDHVepI)
 <h1 align="center">Hi 👋, I'm Sad Bin Siddique</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/R7LX8MmB5HQAAAAi/game-changer-game-changers.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadbinsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="sadbinsiddique" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DL/ML,Python**
+- 🌱 I’m currently learning **GNN**
 
 - 👨‍💻 All of my projects are available at [https://sadbinsiddique.github.io](https://sadbinsiddique.github.io)
 
