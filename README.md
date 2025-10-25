@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./assets/header-wave.svg" alt="Header wave banner" width="100%" />
-  <img src="./assets/typing-header.svg" alt="Data Scientist • ML Engineer • LLM Engineer • NLP Engineer • Backend Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer;Backend+Engineer" alt="Typing roles" />
 </div>
 
 # **BASIC INFO**
@@ -24,7 +23,7 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 
 </div>
 
-> **CONTACT:** 
+> **CONTACT:**
 > <a href="mailto:sadbinsiddique@hotmail.com" title="Hotmail"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&style=flat&borderRadius=50" alt="Hotmail"></a>
 > <a href="mailto:21-45005-2@student.aiub.edu" title="Enterprise Outlook"><img src="https://img.shields.io/badge/Enterprise_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&style=flat&borderRadius=50" alt="Enterprise Outlook"></a>
 > <a href="mailto:sadbinsiddique@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&borderRadius=50" alt="Gmail"></a>
@@ -148,9 +147,7 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbinsiddique&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadbinsiddique&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF" width="100%" alt="Contribution Graph"/>
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadbinsiddique&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF)
 
 # **GitHub Trophies**
 
@@ -158,13 +155,12 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 
 # **Contribution**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadbinsiddique/sadbinsiddique/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadbinsiddique/sadbinsiddique/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sadbinsiddique/sadbinsiddique/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-<div align="center">
-  <img src="./assets/footer-wave.svg" alt="Footer wave banner" width="100%" />
-  <img src="./assets/typing-footer.svg" alt="The goal is to predict, innovate, and transform." />
-</div>
+![Typing roles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Turning+complex+data+into+actionable+intelligence.;Engineering+insight+through+mathematics+and+machine+learning.;Where+data+meets+innovation,+impact+begins.;Bridging+algorithms+with+real-world+understanding.;Driven+by+data,+refined+by+experimentation.;Transforming+uncertainty+into+measurable+outcomes.;Designing+systems+that+learn,+adapt,+and+evolve.;From+raw+data+to+refined+intelligence.;Empowering+decisions+through+predictive+precision.;Building+the+future,+one+model+at+a+time.)
