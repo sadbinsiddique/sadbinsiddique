@@ -9,7 +9,7 @@
 ```asm
 NAME        db "Sad Bin Siddique"
 ROLE        db "ML Engineer"
-EXPERIENCE  dd 2.5        ; years on Deep Learning
+EXPERIENCE  dd 2.5    
 INTERESTS   db "Embedded hybrid models, LLMs, GNNs"
 RESEARCH    db "GML, GL-Fusion, NAS"
 LEARNING    db "Diffusion GNNs, Domain-specific LLMs"
