@@ -7,7 +7,6 @@
 <div align="left">
 
 ```asm
-;PROFILE    - Sad Bin Siddique
 NAME        db "Sad Bin Siddique"
 ROLE        db "ML Engineer"
 EXPERIENCE  dd 2.5        ; years on Deep Learning
@@ -15,7 +14,6 @@ INTERESTS   db "Embedded hybrid models, LLMs, GNNs"
 RESEARCH    db "GML, GL-Fusion, NAS"
 LEARNING    db "Diffusion GNNs, Domain-specific LLMs"
 PROJECTS    db "AI agents, Model compression, Web & automation"
-;Keywords: Diffusion GNNs · Graph-augmented Transformers · Edge-optimized LLMs
 ```
 
 ![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-856-0e75b6?style=for-the-badge&style=flat&borderRadius=50)
