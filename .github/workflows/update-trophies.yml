@@ -1,0 +1,51 @@
+name: auto-update github trophies
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # daily at 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure assets directory
+        run: mkdir -p assets
+
+      - name: Download GitHub Trophies SVG if available
+        env:
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          URL="https://github-profile-trophy.vercel.app/?username=${USERNAME}&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"
+          echo "Fetching $URL"
+          # download and get HTTP status
+          HTTP_STATUS=$(curl -s -w "%{http_code}" -L -o assets/github-trophies.svg "$URL")
+          echo "HTTP status: $HTTP_STATUS"
+          if [ "$HTTP_STATUS" -ne 200 ]; then
+            echo "Trophies service not available (HTTP $HTTP_STATUS). Exiting without changes."
+            exit 0
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          # If file existed in HEAD, compare to avoid noisy commits
+          if git ls-tree -r HEAD --name-only | grep -q "^assets/github-trophies.svg$"; then
+            git show HEAD:assets/github-trophies.svg > /tmp/old-trophies.svg || true
+            if cmp -s /tmp/old-trophies.svg assets/github-trophies.svg; then
+              echo "No change in trophies SVG. Nothing to commit."
+              exit 0
+            fi
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-trophies.svg
+          git commit -m "Auto-update GitHub trophies image" || echo "No changes to commit"
+          git push origin HEAD:main || echo "Push failed (check permissions)"
