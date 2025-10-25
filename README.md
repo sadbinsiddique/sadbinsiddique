@@ -149,6 +149,18 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadbinsiddique&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF)
 
+# **GitHub Trophies**
+
+![GitHub Trophies](./assets/github-trophies.svg)
+
+# **Contribution**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadbinsiddique/sadbinsiddique/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadbinsiddique/sadbinsiddique/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sadbinsiddique/sadbinsiddique/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ![Typing roles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Turning+complex+data+into+actionable+intelligence.;Engineering+insight+through+mathematics+and+machine+learning.;Where+data+meets+innovation,+impact+begins.;Bridging+algorithms+with+real-world+understanding.;Driven+by+data,+refined+by+experimentation.;Transforming+uncertainty+into+measurable+outcomes.;Designing+systems+that+learn,+adapt,+and+evolve.;From+raw+data+to+refined+intelligence.;Empowering+decisions+through+predictive+precision.;Building+the+future,+one+model+at+a+time.)
