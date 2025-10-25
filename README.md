@@ -23,12 +23,6 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 
 </div>
 
-> **CONTACT:**
-> <a href="sadbinsiddique@hotmail.com" title="Hotmail"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&style=flat&borderRadius=50" alt="Hotmail"></a>
-> <a href="21-45005-2@student.aiub.edu" title="Enterprise Outlook"><img src="https://img.shields.io/badge/Enterprise_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&style=flat&borderRadius=50" alt="Enterprise Outlook"></a>
-> <a href="sadbinsiddique@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&borderRadius=50" alt="Gmail"></a>
-
----
 
 > **SOCIAL:**
 > <a href="https://sadbinsiddique.github.io" title="Website"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&style=flat&borderRadius=50" alt="Website"></a>
