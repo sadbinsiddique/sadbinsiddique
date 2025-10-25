@@ -1,0 +1,11 @@
+{
+  "name": "pacman-generator",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "generate-pacman": "node scripts/generate-pacman.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -19,10 +19,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate pacman-contribution-graph.svg
-        uses: sadbinsiddique/pacman-contribution-graph@main
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
+          node-version: '18'
+
+      - name: Run pacman generator (local script)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          npm run generate-pacman
 
       - name: List generated files (debug)
         run: |
