@@ -151,7 +151,7 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 
 # **GitHub Trophies**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sadbinsiddique&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![GitHub Trophies](./assets/github-trophies.svg)
 
 # **Contribution**
 
