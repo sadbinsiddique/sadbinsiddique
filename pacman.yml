@@ -1,0 +1,28 @@
+name: Update Pac-Man Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write   # required to push to the output branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate Pac-Man SVGs (light + dark)
+        uses: abozanona/pacman-contribution-graph@v2.3.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # github_token: ${{ secrets.GITHUB_TOKEN }} # optional, defaults automatically
+          # player_style: oportunista                 # optional; see action README for options
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output     # change this if you want a different branch
+          build_dir: dist           # where the action writes the generated SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
