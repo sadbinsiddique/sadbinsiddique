@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer;Backend+Engineer" alt="Typing roles" />
 </div>
 
-# **BASIC INFO**
+## **BASIC INFO**
 
 <div align="left">
 
@@ -30,7 +30,7 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 > <a href="https://discord.com/users/481151768554897420" title="Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat&borderRadius=50" alt="Discord"></a>
 > <a href="https://www.kaggle.com/sadbinsiddique" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&style=flat&borderRadius=50" alt="Kaggle"></a>
 
-# **TECHNOLOGY**
+## **TECHNOLOGY**
 
 <div align="center">
 
@@ -118,7 +118,7 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 
 </div>
 
-# **FEATURED PROJECT**
+## **FEATURED PROJECT**
 
 <div align="center">
 
@@ -128,7 +128,7 @@ PROJECTS    db "AI agents, Model compression, Web & automation"
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=sadbinsiddique&repo=ids_final_project_group_11&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)](https://github.com/sadbinsiddique/ids_final_project_group_11)
 </div>
 
-# **Github Analytics**
+## **Github Analytics**
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sadbinsiddique&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
