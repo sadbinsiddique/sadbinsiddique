@@ -6,10 +6,14 @@
 
 <div align="left">
 
-```asm
-INTERESTS   db "Embedded hybrid models, LLMs, GNNs"
-RESEARCH    db "GML, GL-Fusion, NAS"
-LEARNING    db "Diffusion GNNs, Domain-specific LLMs"
+```python
+name = "Sad Bin Siddique"
+
+interests = ["Embedded hybrid models", "LLMs", "GNNs"]
+
+research = ["GML", "GL-Fusion", "NAS"]
+
+learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 ```
 
 ![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-856-0e75b6?style=for-the-badge&style=flat&borderRadius=50)
