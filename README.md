@@ -25,10 +25,8 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 > **SOCIAL:**
 > <a href="https://sadbinsiddique.github.io" title="Website"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&style=flat&borderRadius=50" alt="Website"></a>
 > <a href="https://www.linkedin.com/in/sadbinsiddiquue" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&borderRadius=50" alt="LinkedIn"></a>
-> <a href="https://www.facebook.com/sadbin.siddique.5" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat&borderRadius=50" alt="Facebook"></a>
-> <a href="https://x.com/sadbinsiddique" title="X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=flat&borderRadius=50" alt="X"></a>
 > <a href="https://discord.com/users/481151768554897420" title="Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat&borderRadius=50" alt="Discord"></a>
-> <a href="https://www.kaggle.com/sadbinsiddique" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&style=flat&borderRadius=50" alt="Kaggle"></a>
+>
 
 ## **TECHNOLOGY**
 
