@@ -1,19 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer;Backend+Engineer" alt="Typing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer" alt="Typing roles" />
 </div>
 
-## **BASIC INFO**
+## **INFO**
 
 <div align="left">
 
 ```asm
-NAME        db "Sad Bin Siddique"
-ROLE        db "ML Engineer"
-EXPERIENCE  dd 2.5    
 INTERESTS   db "Embedded hybrid models, LLMs, GNNs"
 RESEARCH    db "GML, GL-Fusion, NAS"
 LEARNING    db "Diffusion GNNs, Domain-specific LLMs"
-PROJECTS    db "AI agents, Model compression, Web & automation"
 ```
 
 ![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-856-0e75b6?style=for-the-badge&style=flat&borderRadius=50)
