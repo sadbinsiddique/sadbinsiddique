@@ -126,10 +126,6 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbinsiddique&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbinsiddique&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
-</div>
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadbinsiddique&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF)
 
 ![Typing roles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Turning+complex+data+into+actionable+intelligence.;Engineering+insight+through+mathematics+and+machine+learning.;Where+data+meets+innovation,+impact+begins.;Bridging+algorithms+with+real-world+understanding.;Driven+by+data,+refined+by+experimentation.;Transforming+uncertainty+into+measurable+outcomes.;Designing+systems+that+learn,+adapt,+and+evolve.;From+raw+data+to+refined+intelligence.;Empowering+decisions+through+predictive+precision.;Building+the+future,+one+model+at+a+time.)
