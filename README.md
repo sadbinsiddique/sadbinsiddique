@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer" alt="Typing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer" alt="Typing roles" />
 </div>
 
 ## **INFO**
@@ -8,6 +8,8 @@
 
 ```python
 name = "Sad Bin Siddique"
+
+domain = ["Computer Vision", "Natural Language Processing"]
 
 interests = ["Embedded hybrid models", "LLMs", "GNNs"]
 
@@ -31,10 +33,6 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 
 ### DEV TOOLS
 
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&style=flat&borderRadius=50)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&style=flat&borderRadius=50)
-![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=uv&logoColor=white&style=flat&borderRadius=50)
-![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black&style=flat&borderRadius=50)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&style=flat&borderRadius=50)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&style=flat&borderRadius=50)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&style=flat&borderRadius=50)
@@ -46,11 +44,11 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 
 ### LANGUAGES
 
-![Python](https://img.shields.io/badge/Python_|_100%25-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat&borderRadius=50)
-![R](https://img.shields.io/badge/R_|_97%25-276DC3?style=for-the-badge&logo=r&logoColor=white&style=flat&borderRadius=50)
-![TypeScript](https://img.shields.io/badge/TypeScript_|_88%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=flat&borderRadius=50)
-![C++](https://img.shields.io/badge/C++_|_95%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&style=flat&borderRadius=50)
-![SQL](https://img.shields.io/badge/SQL_|_100%25-4479A1?style=for-the-badge&logo=database&logoColor=white&style=flat&borderRadius=50)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat&borderRadius=50)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=flat&borderRadius=50)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=flat&borderRadius=50)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&style=flat&borderRadius=50)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white&style=flat&borderRadius=50)
 
 </td>
 <td width="33%" valign="top">
@@ -63,7 +61,6 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&style=flat&borderRadius=50)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&style=flat&borderRadius=50)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&style=flat&borderRadius=50)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white&style=flat&borderRadius=50)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat&borderRadius=50)
 
 </td>
@@ -78,8 +75,6 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&style=flat&borderRadius=50)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&style=flat&borderRadius=50)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&style=flat&borderRadius=50)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&style=flat&borderRadius=50)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat&borderRadius=50)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&style=flat&borderRadius=50)
 
 </td>
@@ -88,7 +83,6 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 ### KNOWLEDGE
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&style=flat&borderRadius=50)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff9933?style=for-the-badge&logo=Scikit-learn&logoColor=white&style=flat&borderRadius=50)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white&style=flat&borderRadius=50)
 ![Optimization](https://img.shields.io/badge/Optimization-615DFF?style=for-the-badge&logo=optuna&logoColor=white&style=flat&borderRadius=50)
 ![Automation](https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&style=flat&borderRadius=50)
