@@ -115,11 +115,9 @@ learning = ["Diffusion GNNs", "Domain-specific LLMs"]
 
 ## **Github Analytics**
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sadbinsiddique&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbinsiddique&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8"/>
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=sadbinsiddique&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadbinsiddique&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadbinsiddique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadbinsiddique&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF)
 
 ![Typing roles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Turning+complex+data+into+actionable+intelligence.;Engineering+insight+through+mathematics+and+machine+learning.;Where+data+meets+innovation,+impact+begins.;Bridging+algorithms+with+real-world+understanding.;Driven+by+data,+refined+by+experimentation.;Transforming+uncertainty+into+measurable+outcomes.;Designing+systems+that+learn,+adapt,+and+evolve.;From+raw+data+to+refined+intelligence.;Empowering+decisions+through+predictive+precision.;Building+the+future,+one+model+at+a+time.)
