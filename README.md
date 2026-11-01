@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Data+Scientist;ML+Engineer;LLM+Engineer;NLP+Engineer" alt="Typing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=ML+Engineer;LLM+Engineer" alt="Typing roles" />
 </div>
 
 ## **INFO**
